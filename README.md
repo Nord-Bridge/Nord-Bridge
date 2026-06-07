@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Nord Bridge Logo" width="180"/>
-
 # Welcome to Nord Bridge
 
 ### Building Bridges to Global Trade & Investment Excellence
